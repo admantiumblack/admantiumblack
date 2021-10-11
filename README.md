@@ -1,0 +1,3 @@
+- 👋 Hi, Roland
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently learning Deep Learning
