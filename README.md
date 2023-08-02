@@ -1,2 +1,2 @@
-- 👋 Hi, Roland
+- 👋 Hi, I'm Roland
 - 👀 I’m interested in Data Engineering
