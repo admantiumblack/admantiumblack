@@ -1,2 +1,3 @@
 - 👋 Hi, I'm Roland
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering and Machine Learning
+- I'm currently working as an AI Engineer
